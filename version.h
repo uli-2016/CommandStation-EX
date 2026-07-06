@@ -3,7 +3,8 @@
 
 #include "StringFormatter.h"
 
-#define VERSION "5.6.0"
+#define VERSION "5.6.1"
+// 5.6.1  - Safety net for users which have not defined an ONRAILSYNCOFF hanlder
 // 5.6.0  - Minor adaptions to make production version
 // 5.5.68 - EXRAIL: BITMAP_SET
 //        - EXRAIL: Comments corrections for doc build
